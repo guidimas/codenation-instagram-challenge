@@ -144,6 +144,10 @@ body {
   position: relative;
 }
 
+.post__picture {
+  width: 100%;
+}
+
 .post__content:hover:after {
   animation: 1s likeAnimation;
 }
